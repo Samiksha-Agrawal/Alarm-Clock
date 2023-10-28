@@ -50,4 +50,4 @@ This is a simple alarm colck containing all the features metioned above.I had cr
 
 DEMO
 https://samiksha-agrawal.github.io/Alarm-Clock/
-https://mansi523.github.io/AlarmClock/
+
